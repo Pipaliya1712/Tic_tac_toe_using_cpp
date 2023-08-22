@@ -121,9 +121,9 @@ void win_stape_for_4 (int a[],int n){
 }
 
 int main(){
-    cout<<"Lets play O-X"<<endl;
-    cout<<"tamare X karvani and mare O and hu 1st"<<endl;
-    cout<<"tamare index nakhavani jya tamare X mukavi hoy eni \nE.X. \nniche badha box ni index 6e e pramane..: ) "<<endl;
+    cout<<"Lets play O-X.."<<endl;
+    cout<<"You have to do X and I do O and my turn is first."<<endl;
+    cout<<"You have to insert index of position.  \nE.X. \nBelow index of all box are present. \nAlso the 'O' is represent as '0' ans X is represent as '1' \nHope you enjoy..:) "<<endl;
     int n=9;
     int a[n];
     for(int i=0;i<n;i++){
